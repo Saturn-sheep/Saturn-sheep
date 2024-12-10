@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! My name is **Gary White** 👋, and I'm passionate about programming 💻. With **4 years of programming experience** as of 2024, I have developed a strong foundation in various programming languages and frameworks.
+Hello! My name is **Tory Ueno** 👋, and I'm passionate about programming 💻. With **4 years of programming experience** as of 2024, I have developed a strong foundation in various programming languages and frameworks.
 
 ## Skills
 
