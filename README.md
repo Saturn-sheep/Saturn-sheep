@@ -2,34 +2,45 @@
 
 ## About Me
 
-Hello! My name is **Roman** 👋, and I'm passionate about programming 💻. With **4 years of programming experience** as of 2024, I have developed a strong foundation in various programming languages and frameworks.
+Hello! My name is **Rodel Bondoc** 👋, and I am a passionate **Software Engineer** 💻 from the **Philippines** 🇵🇭. I enjoy building modern, practical, and scalable digital solutions that solve real business problems.
+
+With solid experience in software development, I focus on creating clean, maintainable, and efficient systems. I am always eager to improve my skills, explore new technologies, and deliver high-quality work.
 
 ## Skills
 
-- **Programming Languages**: 
-  - Proficient in **JavaScript** and its related frameworks 🚀.
-  - Familiar with multiple programming languages, which I can learn in just **7 days** ⏳.
+- **Software Engineering**:
+  - Experienced in building web applications, custom features, and solving technical problems ⚙️.
+  - Strong understanding of application structure, debugging, optimization, and scalable development practices 🚀.
 
-- **Mathematics and Sciences**:
-  - I am very good at **math**, **physics**, and **chemistry** 📐🔬.
+- **Programming Languages & Technologies**:
+  - Proficient in **JavaScript** and modern development tools.
+  - Comfortable learning new languages, frameworks, and systems quickly ⏳.
 
-- **Design**: 
-  - Experienced in **face-to-face design** 🖌️, allowing me to effectively collaborate and communicate with clients and team members.
+- **Problem Solving**:
+  - Strong in logical thinking, analysis, and breaking down complex problems into practical solutions 🧠.
+  - Able to adapt quickly and find efficient ways to complete challenging tasks.
+
+- **Collaboration & Communication**:
+  - Skilled at working with clients, teammates, and stakeholders in a clear and professional way 🤝.
+  - I value teamwork, reliability, and smooth communication in every project.
 
 ## Reliability
 
-I am exceptionally good at **keeping promises** 🤝. This quality not only strengthens my relationships but also fosters trust and collaboration in every project I undertake. You can count on me to follow through on my commitments and deliver results.
+I take pride in being someone who **keeps promises** ✅. When I commit to a task, I do my best to complete it responsibly and on time. I believe trust, consistency, and accountability are some of the most important qualities of a great engineer.
 
-## Friendship
+## Growth Mindset
 
-I believe in the value of friendships and the importance of collaboration. Building strong connections with others fosters creativity and growth. I enjoy working with friends on projects, sharing ideas, and learning from each other. If you're interested in connecting or collaborating, feel free to reach out!
+I believe continuous learning is one of the keys to success in tech 🌱. I enjoy exploring new tools, improving my workflow, and becoming better with every project I work on. I am always open to new opportunities, challenges, and collaborations that help me grow both personally and professionally.
+
+## Collaboration
+
+I enjoy connecting with others, sharing ideas, and building meaningful projects together. Great products are often created through strong collaboration, creativity, and trust. I am always happy to work with people who are passionate about building useful and impactful solutions.
 
 ## Contact Information
 
-For inquiries or collaborations, feel free to reach out to me at my email address: [garywhite@gmail.com](mailto:garywhite@gmail.com) 📧.
-
+For inquiries, collaborations, or professional opportunities, feel free to reach out to me at: [garywhite@gmail.com](mailto:garywhite@gmail.com) 📧
 
 <!---
-Saturn0218/Saturn0218 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+YourGitHubUsername/YourGitHubUsername is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
